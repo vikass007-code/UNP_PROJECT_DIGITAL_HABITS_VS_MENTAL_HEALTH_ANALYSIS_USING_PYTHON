@@ -11,7 +11,6 @@ The analysis found that sleep had the strongest relationship with stress, while 
 
 Tools & Concepts: Python, Pandas, Data Preprocessing, EDA, Data Visualization, Correlation Analysis, Machine Learning, Regression & Model Evaluation.
 
-PROJECT PPT FILE : 
-
+PROJECT PPT FILE : https://docs.google.com/presentation/d/1FowmzZn3PWvyvqcC94H_dxiMpXhyN99e/edit?usp=sharing&ouid=103334315293247558492&rtpof=true&sd=true
 
 PROJECT COLAB: https://colab.research.google.com/drive/16zJH2LD_kIJq2a1YeHijjRLeYCRii6v3
